@@ -8,7 +8,6 @@
 
 import Foundation
 import Combine
-import Framework
 
 final public class UploadManager {
     

@@ -7,7 +7,6 @@
 //
 
 import Foundation
-import AWSCore
 
 public class UploaderConfig {
     

@@ -7,7 +7,6 @@
 //
 
 import Foundation
-import Framework
 
 /// The result for the file uploader
 public enum UploadResult: ResultMaker {

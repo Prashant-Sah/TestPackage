@@ -6,11 +6,7 @@
 //
 
 import Foundation
-import AWSCore
-import AWSS3
-import AWSCognitoIdentityProvider
 import Combine
-import Alamofire
 
 /// The file uploader class
 public final class AWSUploader: Uploader {

@@ -7,7 +7,6 @@
 //
 
 import Foundation
-import Framework
 
 /// The file used for uploading this is class so that we can cancel it properly if needed
 public class File: Equatable {

@@ -1,6 +1,5 @@
 import Foundation
 import Combine
-import Framework
 
 public protocol Uploader {
     /// common file upload
